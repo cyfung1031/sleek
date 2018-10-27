@@ -3,8 +3,8 @@ title: Kenji T. Hayashi # your site title
 author: Kenji T. Hayashi # You :P
 description: > # Meta description of Homepage
   Personal website for Kenji T. Hayashi, Ph.D. student in the Kraft Lab, Department of Ecology and Evolutionary Biology, UCLA. Plant community assembly, coexistence, and biogeography.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kthayashi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/sleek" # the subpath of your site, e.g. /blog
+url: "https://cyfung1031.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
